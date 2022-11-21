@@ -13,6 +13,10 @@ Repo Profile for Project Capstone Team C22-016 in Dicoding Indonesia with Learni
 
 ## About M. Khoirul Husen
 <p>Hi everyone I'm a Freelancer Web Developer, and I like learn about Technology. I am currently an active Student at <strong>Stmik Dian Cipta Cendikia Kotabumi</strong>. Besides that, I like to create online learning content about the world of Technology.</p>
+<ol>
+  <li>[LinkedIn](https://www.linkedin.com/in/hoirulhusen08)</li>
+  <li>[Instagram](https://www.instagram.com/hoirulhusen08)</li>
+</ol>
 <br>
 
 ## About .............
